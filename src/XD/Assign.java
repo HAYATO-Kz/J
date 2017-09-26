@@ -139,3 +139,4 @@ static Scanner scan = new Scanner (System.in);
 	
 	 }
 }
+//ske retaueant by hayato
