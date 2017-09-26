@@ -139,4 +139,4 @@ static Scanner scan = new Scanner (System.in);
 	
 	 }
 }
-//ske retaueant by hayato
+//ske restaurant by hayato
